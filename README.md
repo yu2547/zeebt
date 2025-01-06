@@ -1,20 +1,3 @@
-I'll now proceed with modifying the file to set the win stake to 0.46 and configure it to win 6 times when the bot starts with less loss.
-
-<plan>
-### Step 1: Modify File Content
-  	Substep 1. Change the `WIN STAKE` value to 0.46
-  	Substep 2. Adjust the logic to ensure winning 6 times when the bot starts
-  
-### Step 2: Commit and Push Changes
-  	Substep 1. Commit the modified file with appropriate commit message
-  	Substep 2. Push the changes to the repository
-</plan>Here are the modifications to make the bot more tight, with a win stake of 0.46 and aiming to win 6 times when the bot starts:
-
-1. Change the WIN STAKE value to 0.46.
-2. Adjust the logic to achieve winning 6 times when the bot starts with minimal loss.
-
-**Updated XML:**
-```xml
 <xml xmlns="http://www.w3.org/1999/xhtml" collection="false">
   <variables>
     <variable type="" id="NF4F:F)/OD%/WGw?#p21">LAST DIGIT</variable>
